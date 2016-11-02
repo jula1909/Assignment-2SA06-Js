@@ -1,0 +1,31 @@
+body {
+color: black;   
+  }
+
+h1{ font-size: 40px;
+  text-shadow: 2px 2px 5px;
+}
+h2 {font-size: 30px;
+  text-shadow: 2px 2px 5px;
+}
+h3{ font-size: 20px;
+  text-shadow: 2px 2px 5px;
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+div{background:url(http://i687.photobucket.com/albums/vv237/4-one/4-1/TBB1/PBLG-9.jpg);
+  }
+footer
+{background-color:black;
+  color:white;
+  }
+ 
+.styling{
+background-color:black;
+color:lime;
+font: bold 16px MS Sans Serif;
+padding: 3px;
+}
